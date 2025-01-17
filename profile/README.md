@@ -1,7 +1,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-## 2024 INU ESE CAPSTONE DESIGN : TEAM 입샛노랑 👋
+## 👋 2024 INU ESE CAPSTONE DESIGN : TEAM 입샛노랑 
+##    다색상 원단의 색상 유사도 검출 시스템
 
 
 
