@@ -25,6 +25,12 @@
 <tr>
 <td>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4aac00cb-9dd6-4367-ac62-635e9cbb6b8e" width="150">
+  <img src="https://github.com/user-attachments/assets/48223819-0feb-4bd8-a580-ab8a3ef8e994" width="150">
+  <img src="https://github.com/user-attachments/assets/0610e40d-d4b9-48ab-b9b0-40b7814f2353" width="150">
+</p>
+
 **Weekly Diary Table**  
 주간 기록 링크
 
