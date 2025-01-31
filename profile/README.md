@@ -4,10 +4,15 @@
 ## 👋 2024 INU ESE CAPSTONE DESIGN : TEAM 입샛노랑 
 ##    다색상 원단의 색상 유사도 검출 시스템
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4aac00cb-9dd6-4367-ac62-635e9cbb6b8e" width="200" height="200">
-  <img src="https://github.com/user-attachments/assets/48223819-0feb-4bd8-a580-ab8a3ef8e994" width="200" height="200">
-  <img src="https://github.com/user-attachments/assets/0610e40d-d4b9-48ab-b9b0-40b7814f2353" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/4aac00cb-9dd6-4367-ac62-635e9cbb6b8e" width="200" height="150">
+  <img src="https://github.com/user-attachments/assets/48223819-0feb-4bd8-a580-ab8a3ef8e994" width="200" height="150">
+  <img src="https://github.com/user-attachments/assets/0610e40d-d4b9-48ab-b9b0-40b7814f2353" width="200" height="150">
+  <img src="https://github.com/user-attachments/assets/7b368ad1-3dd1-4ebd-8c96-29e8e0e55d9e" width="200" height="150">
+  <img src="https://github.com/user-attachments/assets/997b668f-8fb3-4154-8c58-60d55eadf296" width="200" height="150">
+  <img src="https://github.com/user-attachments/assets/c27f9168-856a-457b-a256-36e9635817ef" width="200" height="150">
 </p>
+
+
 
 **최종 발표 자료**: [@다운로드 링크](https://docs.google.com/presentation/d/1IgRghHDnjJkFxRsfzBaK4a7im6FzhCpW/edit?usp=sharing&ouid=103243002463357789426&rtpof=true&sd=true)
 
