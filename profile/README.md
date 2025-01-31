@@ -8,9 +8,8 @@
   <img src="https://github.com/user-attachments/assets/48223819-0feb-4bd8-a580-ab8a3ef8e994" width="200" height="200">
   <img src="https://github.com/user-attachments/assets/0610e40d-d4b9-48ab-b9b0-40b7814f2353" width="200" height="200">
 </p>
+
 **최종 발표 자료**: [@다운로드 링크](https://docs.google.com/presentation/d/1IgRghHDnjJkFxRsfzBaK4a7im6FzhCpW/edit?usp=sharing&ouid=103243002463357789426&rtpof=true&sd=true)
-
-
 
 - **주제 신청서 바로가기**: [@주제 신청서](https://github.com/inu-ese-capstone-design-team-YSN/inu-ese-capstone-design-team-YSN.github.io/blob/master/_posts/%5B%EC%9E%85%EC%83%9B%EB%85%B8%EB%9E%91%5D-%EC%A3%BC%EC%A0%9C%20%EC%84%A0%EC%A0%95%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)  
 - **Github Pages(Blog)**: [@블로그](https://inu-ese-capstone-design-team-ysn.github.io/)
